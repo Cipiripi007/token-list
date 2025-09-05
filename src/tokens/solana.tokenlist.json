@@ -4,6 +4,10 @@
   "symbol": "SVB",
   "name": "SOLVIBE",
   "decimals": 9,
-  "logoURI": "https://i.imgur.com/wXvNSSF.png",
-  "tags": ["utility", "meme"]
+  "logoURI": "https://i.imgur.com/Ee7PlsV.png",
+  "extensions": {
+    "website": "https://solvibetoken.com/",
+    "twitter": "https://x.com/Solvibetoken",
+    "telegram": "https://t.me/Solvibetoken1"
+  }
 }
