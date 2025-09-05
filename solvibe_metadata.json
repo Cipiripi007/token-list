@@ -1,0 +1,25 @@
+{
+  "name": "SOLVIBE",
+  "symbol": "SVB",
+  "description": "Community-driven Solana token focused on transparent growth and good vibes.",
+  "image": "https://i.imgur.com/Ee7PlsV.png",
+  "extensions": {
+    "website": "https://solvibetoken.com/",
+    "twitter": "https://x.com/Solvibetoken",
+    "telegram": "https://t.me/Solvibetoken1"
+  },
+  "tags": [
+    "solana",
+    "community",
+    "meme"
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://i.imgur.com/Ee7PlsV.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
